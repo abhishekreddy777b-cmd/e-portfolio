@@ -2,7 +2,7 @@
 
 > B.Tech Artificial Intelligence & Machine Learning · REVA University, Bengaluru · 2nd Semester
 
-Live site: [https://abhishekreddy.github.io](https://abhishekreddy.github.io) *(update with your actual GitHub username)*
+Live site:  *(update with your actual GitHub username)*
 
 ---
 
